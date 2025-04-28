@@ -11,8 +11,8 @@ The goal is to observe the effect of including rhythm information on the quality
 
 ## Dataset
 
-* **Source:** A subset of the ["Lakh MIDI Dataset (Clean)"](# LSTM Network Experiments for MIDI Music Generation
-
+* **Source:** A subset of the [Lakh MIDI Dataset (Clean)](https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean)
+  
 ## Introduction and Purpose
 
 The purpose of this project is to investigate methods for generating symbolic music (in MIDI format) using Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory (LSTM) networks. Two different approaches were tested and compared in the project:
